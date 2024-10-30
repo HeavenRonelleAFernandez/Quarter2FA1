@@ -1,3 +1,3 @@
-- This is a Laboratory Activity on Module 6.
+- This is a Laboratory Activity on Module 7.
  - The topics covered in this activity are/is the use of iframe.
  - https://github.com/HeavenRonelleAFernandez/Quarter2FA1
